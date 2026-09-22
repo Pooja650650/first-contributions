@@ -26,6 +26,7 @@ B05U3-
 - [Naing Zwe Htut](https://github.com/Naingzwehtut)
 - [David Fauveaux](https://github.com/DavidFvx)
 - - [Gaurav Aryal](https://github.com/Detoxin01)
+Thiago Henrique
 B.Saikumar
 Arc hie Boswelll
 -[Tenzing Gyalpo Tamang](https://github.com/Tachhen)
@@ -6097,6 +6098,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Taya](https://github.com/Taiwo052)
 - [Maryam Ayman](https://github.com/MaryamAyman06)
 - [ThreadCrash](https://github.com/ThreadCrash)
+- [manthanumredkar](https://github.com/manthanumredkar)
 - [VenkatLearn](https://github.com/venkatlearn)
 - [Wallace](https://github.com/wallace7132010-afk)
 - [Christine_Carranza](https://github.com/christinefraker-pixel)
